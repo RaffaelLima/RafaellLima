@@ -1,4 +1,4 @@
-# Olá! eu sou a Rafael Lima, estou criando conteúdo de programação e tecnologia!
+## Olá! eu sou a Rafael Lima, estou criando conteúdo de programação e tecnologia!
 
 <!--- Ambas caixinhas --->
 <div align="center">
