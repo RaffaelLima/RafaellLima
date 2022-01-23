@@ -1,4 +1,6 @@
-## Olá! eu sou a Rafael Lima, estou criando conteúdo de programação e tecnologia!
+## Olá! 
+
+Sou Rafael Lima, estou em processo de aprendizado Apaixonado cada vez em tecnologia. Adquirindo experiências de acordo que vou aprendendo com passar do tempo com objetivo em : Html, Css, JavaScript, Typescript, NodeJS, Vue.js, ReactJS, React Native, Python, Front-End 2.0, Back-End, Firebase, Ui/UX, Angular. Sou aluno do Bootcamp Dio , onde estou aprendendo na prática atualmente as mais modernas tecnologias de desenvolvimento web e mobile.
 
 <!--- Ambas caixinhas --->
 <div align="center">
