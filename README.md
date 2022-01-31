@@ -1,6 +1,6 @@
 ## Olá! 
 
-Sou Rafael Lima, estou em processo de aprendizado Apaixonado cada vez em tecnologia. Adquirindo experiências de acordo que vou aprendendo com passar do tempo com objetivo em : Front-End 2.0, Back-End, Html, Css, JavaScript, Typescript, NodeJS, Vue.js, ReactJS, React Native, Python,  Firebase, Ui/UX, Angular. Sou aluno do Bootcamp Dio , onde estou aprendendo na prática atualmente as mais modernas tecnologias de desenvolvimento web e mobile.
+Sou Rafael Lima, estou em processo de aprendizado Apaixonado cada vez em tecnologia. Adquirindo experiências de acordo que vou aprendendo com passar do tempo com objetivo em : Front-End 2.0, Back-End, Html, Css, JavaScript, Typescript, NodeJS, Vue.js, ReactJS, React Native, Python,  Firebase, Ui/UX, Angular. Estou aprendendo na prática atualmente as mais modernas tecnologias de desenvolvimento web e mobile.
 
 <!--- Ambas caixinhas --->
 <div align="center">
