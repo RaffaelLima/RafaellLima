@@ -1,6 +1,6 @@
 ## Olá! 
 
-Sou Rafael Lima, estou em processo de aprendizado Apaixonado cada vez em tecnologia. Adquirindo experiências de acordo que vou aprendendo com passar do tempo: Front-End, Back-End, JavaScript, Typescript, NodeJS, Vue.js, ReactJS, React Native, Python. Estou aprendendo na prática atualmente as mais modernas tecnologias de desenvolvimento web e mobile.
+Sou Rafael Lima, estou em processo de aprendizado Apaixonado cada vez em tecnologia, aprendendo na prática atualmente as mais modernas tecnologias de desenvolvimento web e mobile, adquirindo experiências de acordo que vou aprendendo com passar do tempo: Full-Stack.
 
 <!--- Ambas caixinhas --->
 <div align="center">
